@@ -1,0 +1,2 @@
+RETEST2_CEIL_PAYLOAD_20260929
+authorized CodeRabbit VDP re-verification fixture
